@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hello, I’m Krusha. A **Data Analyst**
 
-<!--
-**krrusha/krrusha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🔎 What I do
+- Querying data using SQL
+- Generating reports and performing ad-hoc analysis using SQL
+- Developing dashboards in PowerBI and Tableau
+- Data analysis and reporting using Excel and Google Sheets
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tools
+
+**Languages:** SQL, Python  
+**Databases:** PostgreSQL, MySQL
+**Visualization:** PowerBI, Tableau
+
+---
+
+## 👋🏻 Connect with Me
+- **LinkedIn:** https://www.linkedin.com/in/krusha--shah/
+
