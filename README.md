@@ -4,6 +4,7 @@ A data analyst with strengths in data analysis and reporting, and a growing focu
 
 
 
+
 **🔎 What I do**
 
 - Querying data using SQL
@@ -13,11 +14,13 @@ A data analyst with strengths in data analysis and reporting, and a growing focu
 
 
 
+
 **🛠️ Tools**
 
 **Languages:** SQL, Python  
 **Databases:** PostgreSQL, MySQL
 **Visualization:** PowerBI, Tableau
+
 
 
 
