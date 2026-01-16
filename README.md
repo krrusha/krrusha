@@ -4,7 +4,7 @@ A data analyst with strengths in data analysis and reporting, and a growing focu
 
 
 
-## 🔎 What I do
+### 🔎 What I do
 - Querying data using SQL  
 - Generating reports and performing ad-hoc analysis using SQL  
 - Developing dashboards in Power BI and Tableau  
@@ -12,12 +12,12 @@ A data analyst with strengths in data analysis and reporting, and a growing focu
 
 
 
-## 🛠️ Tools
+### 🛠️ Tools
 - Languages: SQL, Python  
 - Databases: PostgreSQL, MySQL  
 - Visualization: Power BI, Tableau  
 
 
 
-## 👋🏻 Connect with me
+### 👋🏻 Connect with me
 - LinkedIn: https://www.linkedin.com/in/krusha--shah/
