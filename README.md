@@ -1,4 +1,5 @@
 Hello, I’m Krusha.
+
 A data analyst with strengths in data analysis and reporting, and a growing focus on query optimization, database design, and data modelling.
 
 
