@@ -13,11 +13,11 @@ A data analyst with strengths in data analysis and reporting, and a growing focu
 
 
 ## 🛠️ Tools
-- **Languages:** SQL, Python  
-- **Databases:** PostgreSQL, MySQL  
-- **Visualization:** Power BI, Tableau  
+- Languages: SQL, Python  
+- Databases: PostgreSQL, MySQL  
+- Visualization: Power BI, Tableau  
 
 
 
 ## 👋🏻 Connect with me
-- **LinkedIn:** https://www.linkedin.com/in/krusha--shah/
+- LinkedIn: https://www.linkedin.com/in/krusha--shah/
