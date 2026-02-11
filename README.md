@@ -1,4 +1,4 @@
-####Hello, I’m Krusha.
+###Hello, I’m Krusha.
 
 I’m a **Data Analyst** who enjoys turning raw data into clear, decision-ready insights.  
 My strengths are in SQL analytics, dashboarding, and building clean reporting layers, with a growing focus on data modeling, query performance, and end-to-end analytics workflows.
