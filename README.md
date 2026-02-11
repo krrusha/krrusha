@@ -22,11 +22,11 @@ My strengths are in SQL analytics, dashboarding, and building clean reporting la
 
 
 
-### ✅ What I value in analytics work
-- Clarity: metrics that are easy to understand and trust  
-- Reusability: clean views/tables that power multiple reports  
-- Performance mindset: fewer scans, smarter filters, practical optimization  
-- Storytelling: dashboards that answer “so what?”
+## ✅ What I value in analytics work
+- **Clarity:** metrics that are easy to understand and trust  
+- **Reusability:** clean views/tables that power multiple reports  
+- **Performance mindset:** fewer scans, smarter filters, practical optimization  
+- **Storytelling:** dashboards that answer “so what?”
 
 
 
