@@ -9,7 +9,7 @@ My strengths are in SQL analytics, dashboarding, and building clean reporting la
 - Analyze data and answer business questions using **SQL**
 - Build dashboards and reports in **Databricks**, **Power BI**, and **Tableau**
 - Clean and explore datasets using **Python (pandas)** and spreadsheets
-- Build simple **data pipelines** from ingestion to reporting
+- Build end-to-end data pipelines from **ingestion** and **storage** to **transformation** and **reporting**
 
 
 
@@ -31,4 +31,4 @@ My strengths are in SQL analytics, dashboarding, and building clean reporting la
 
 
 ### 👋🏻 Connect with me
-- LinkedIn: https://www.linkedin.com/in/krusha--shah/
+- **LinkedIn:** https://www.linkedin.com/in/krusha--shah/
