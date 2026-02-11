@@ -1,21 +1,32 @@
 Hello, I’m Krusha.
 
-A data analyst with strengths in data analysis and reporting, and a growing focus on query optimization, database design, and data modelling.
+I’m a **Data Analyst** who enjoys turning raw data into clear, decision-ready insights.  
+My strengths are in SQL analytics, dashboarding, and building clean reporting layers, with a growing focus on data modeling, query performance, and end-to-end analytics workflows.
 
 
 
 ### 🔎 What I do
-- Querying data using SQL  
-- Generating reports and performing ad-hoc analysis using SQL  
-- Developing dashboards in Power BI and Tableau  
-- Data analysis and reporting using Excel and Google Sheets  
+- Analyze data and answer business questions using **SQL**
+- Build dashboards and reports in **Databricks**, **Power BI**, and **Tableau**
+- Clean and explore datasets using **Python (pandas)** and spreadsheets
+- Build simple **data pipelines** from ingestion to reporting
 
 
 
-### 🛠️ Tools
-- Languages: SQL, Python  
-- Databases: PostgreSQL, MySQL  
-- Visualization: Power BI, Tableau  
+### 🛠️ Tech Stack
+- Languages: **SQL**, **Python** (pandas)  
+- Platforms/BI: **Databricks**, **Power BI**, **Tableau**  
+- Databases: **PostgreSQL**, **MySQL**  
+- Spreadsheets: **Excel**, **Google Sheets**  
+- Dev Tools: **Docker**, **Git/GitHub**   
+
+
+
+### ✅ What I value in analytics work
+- Clarity: metrics that are easy to understand and trust  
+- Reusability: clean views/tables that power multiple reports  
+- Performance mindset: fewer scans, smarter filters, practical optimization  
+- Storytelling: dashboards that answer “so what?”
 
 
 
